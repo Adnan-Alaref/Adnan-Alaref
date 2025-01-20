@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer vision**
 
-- 📝 I regularly write articles on [Kaggle Discussion](https://www.kaggle.com/adnanalaref/discussion)
+- 📝 I regularly write articles on [Kaggle Discussion Topics](https://www.kaggle.com/adnanalaref/discussion?type=topic)
 
 - 💬 Ask me about **Machine Learning , Deep Learning ,Computer Vision**
 
