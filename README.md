@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8c5eccec-7121-4d52-a84a-4ad88dcd6441" alt="Masthead Image" width="800" height="300">
 </p>
 
-<h1 align="center"><marquee>Hi 👋, I'm Adnan Alaref</marquee></h1>
+<h1 align="center">Hi 👋, I'm Adnan Alaref</h1>
 <h3 align="center">Machine Learning Engineer | 2x Kaggle Expert</h3>
 
 <img align="right" src="https://github.com/user-attachments/assets/2dfb5098-d5e5-4d2e-a6c8-b54e242c59f2" alt="Image Description" width="300">
