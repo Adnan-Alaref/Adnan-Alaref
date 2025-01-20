@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Alaref</h1>
 <h3 align="center">Machine Learning Engineer | 2x Kaggle Expert</h3>
 
-<img align="right" src="https://github.com/user-attachments/assets/2dfb5098-d5e5-4d2e-a6c8-b54e242c59f2" alt="Image Description" width="200">
+<img align="right" src="https://github.com/user-attachments/assets/2dfb5098-d5e5-4d2e-a6c8-b54e242c59f2" alt="Image Description" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan-alaref&label=Profile%20views&color=0e75b6&style=flat" alt="adnan-alaref" /> </p>
 
