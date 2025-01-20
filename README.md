@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d138290-b4c5-4590-92c7-1280dcad22c0" alt="Masthead Image" width="400">
+  <img src="https://github.com/user-attachments/assets/1d138290-b4c5-4590-92c7-1280dcad22c0" alt="Masthead Image" width="800" height="300">
 </p>
 
 <h1 align="center">Hi 👋, I'm Adnan Alaref</h1>
