@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adnanalaref27@gmail.com**
 
-- 📄 Know about my experiences [**Adnan Alaref CV**](https://drive.google.com/file/d/1Kljp3-Afbw1EwaxAF7Dh-TJ3yr0vRqKZ/view?usp=sharing)
+- 📄 Know about my experiences [**Adnan Alaref CV**]((https://drive.google.com/file/d/1DIh-3JhQS52ON5bAS6ccn7NrieODuuqf/view?usp=sharing)
 
 - ⚡ Fun fact **Most Life Experiences Are Not For Regret But For Learning!!**
 
